@@ -37,4 +37,4 @@ If you would like to get in contact with me, please do so on my email: [mmmwa@le
 
 You can also find me on Bluesky: [masker.science](https://bsky.app/profile/masker.science)
 
-I currently maintain the website for the Eco-Evolutionary Dynamics of Fluctuating Populations research group, which can be found here: [eedfp.com](eedfp.com).
+I currently maintain the website for the Eco-Evolutionary Dynamics of Fluctuating Populations research group, which can be found here: [eedfp.com](https://eedfp.com).
